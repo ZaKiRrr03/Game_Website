@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Website</title>
+    <link rel="stylesheet" href="/CSS/style.css">
+    <link rel="stylesheet" href="/CSS/contacts.css">
+</head>
+<body>
+    
+    <div class="wrapper">
+        <header class="container">
+            <span class="logo">Hello, play</span>
+            <nav>
+                <ul>
+                    <li><a href="/">Главная</a></li>
+                    <li><a href="/about.html">О нас</a></li>
+                    <li><a href="/portfolio.html">Портфолио</a></li>
+                    <li><a href="/news.html">Новости</a></li>
+                    <li class="btn"><a href="/contacts.html">Связь с нами</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <div class="container hero-contacts">
+            <h1>Lorem Ipsum is simply dummy text of the printing and.</h1>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <img src="/Images/Huge Global.svg" alt="map">
+        </div>
+
+        <div class="feedback">
+            <div class="container">
+                <h2>Say hello</h2>
+                <p>Lorem Ipsum is simply dummy text of the printing .</p>
+
+                <form id="main-form" method="post">
+                    <div class="inline">
+                        <div>
+                            <label for="firstname">First name</label>
+                            <input type="text" name="firstname" id="firstname">
+                        </div>
+                        <div>
+                            <label for="lastname">Last name</label>
+                            <input type="text" name="lastname" id="lastname">
+                        </div>
+                    </div>
+                    <label>Email address</label>
+                    <input type="email" class="one-line" id="emailField">
+
+                    <label>Message</label>
+                    <textarea class="one-line"></textarea>
+
+                    <button onclick="checkEmail()">Get in touch</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container blocks">
+                <div>
+                    <span class="logo">Hello, play</span>
+                    <p>Использование материялов сайта без согласования с администрацией запрещено.</p>
+                </div>
+                <div>
+                    <h4>О нас</h4>
+                    <ul>
+                        <li>Zeux</li>
+                        <li>Портфолио</li>
+                        <li>Карьера</li>
+                        <li>Связь с нами<ta/li>
+                    </ul>
+                </div>
+                <div>
+                    <h4>Контакты</h4>
+                    <p>Авторизуясь, ты соглашаешься с правилами сайта и пользовательским соглашением.</p>
+                    <p>+908 89097 890</p>
+                </div>
+        </div>
+        <hr>
+        <p>Copyright 2024 Все права защищены</p>
+    </footer>
+
+    <script src="/JS/main.js"></script>
+</body>
+</html>

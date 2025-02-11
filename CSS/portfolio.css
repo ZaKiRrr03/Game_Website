@@ -1,0 +1,227 @@
+.port-hero {
+    text-align: center;
+}
+
+.port-hero p {
+    margin-top: 20px;
+}
+
+.lost {
+    display: flex;
+    margin-left: 120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pool {
+    margin-left:25px;
+    margin-top: 7px;
+}
+
+.port {
+    display: flex;
+    background-color: rgb(59, 51, 41);
+    padding:40px 0;
+    width: 800px;
+    border-radius: 9px;
+    margin-top: 40px;
+}
+
+.pool p {
+    margin-top: 5px;
+}
+
+.you {
+    display: flex;
+    margin-top: 20px;
+}
+
+.top {
+    display: flex;
+    width: 900px;
+    margin-top: 100px;
+}
+
+.lord {
+    margin-left: 80px;
+}
+
+.lord p {
+    font-size: 13px;
+    margin-top: 8px;
+}
+
+.man {
+    width: 500px;
+}
+
+.you p {
+    margin-left: 10px;
+    margin-top: ;
+}
+
+.main {
+    display: flex;
+    width: 1300px;
+    margin-top: 180px;
+}
+
+.fot {
+    width: 350px;
+    margin-left: 500px;
+}
+
+.main-hero {
+    width: 400px;
+}
+
+.main-hero p {
+    margin-top: 40px;
+}
+
+.main-hero button {
+    margin-top: 40px;
+    padding: 11px 35px;
+    background-color: #DC7000;
+    color: #fff;
+    border: 0;
+    border-radius: 5px;
+}
+
+.main1 {
+    display: flex;
+    margin-left: -320px;
+    margin-top: 90px;
+    width: 2000px;
+    
+}
+
+.main1 .main-hero {
+    margin-left: 530px;
+}
+
+.main2 {
+    display: flex;
+    margin-left: -320px;
+    margin-top: 90px;
+    width: 2000px;
+    
+}
+
+.main2 .main-hero {
+    margin-left: 500px;
+}
+
+.port-hero h2 {
+    margin-top: 50px;
+}
+
+.main2 img {
+    padding-bottom: 100px;
+}
+
+.kid {
+    width: 350px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+
+.fast {
+    background-color: #1C140F;
+}
+
+.kid p {
+    font-size: 10px;
+    margin-top: 20px;
+}
+
+.ggg {
+    display: flex;
+    margin-left: -120px;
+}
+
+.ruck {
+    display: flex;
+}
+
+.hh {
+    margin-left: 20px;
+}
+
+.ggg img {
+    margin-left: 10px;
+    margin-top: -30px;
+}
+
+.ter {
+    width: 300px;
+    border: 1px solid tomato;
+    padding: 20px 30px;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-top: 60px;
+
+}
+
+.ter p {
+    font-size: 14px;
+    width: 300px;
+    
+}
+
+.qq {
+    margin-top: 20px;
+}
+
+.thor {
+    display: flex;
+    margin-left: 220px;
+    padding-bottom: 60px;
+}
+
+.orange {
+    width: 40px;
+    height: 13px;
+    background-color: #DC7000;
+    border: 0;
+    border-radius: 10px;
+} 
+
+
+
+.button {
+    margin-left: 260px;
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.but {
+    height: 13px;
+    width: 13px;
+    border: 0;
+    border-radius: 8px;
+    margin-left: 7px;
+}
+
+.ii {
+    margin-left: 900px;
+}
+
+.ii button {
+    width: 45px;
+    height: 45px;
+    border-radius: 23px;
+}
+
+.w {
+    border: 1px solid tomato;
+    background-color: black;
+}
+
+.s {
+    background-color: #DC7000;
+    border: 0;
+    margin-left: 10px;
+}
+

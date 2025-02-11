@@ -1,0 +1,140 @@
+.port-hero {
+    text-align: center;
+}
+
+.port-hero p {
+    margin-top: 20px;
+}
+
+.search img {
+    position: absolute;
+    z-index: 2;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.search input {
+    position: absolute;
+    z-index: 1;
+    padding: 10px 40px;
+    border-radius: 5px;
+    width: 200px;
+    background-color: rgb(33, 28, 28);
+    border: none;
+    color: aliceblue;
+}
+
+.container.search {
+    padding: 60px 30px;
+    margin-left: 670px;
+}
+
+.port {
+    width: 587px;
+    margin-left: 180px;
+    margin-top: 60px;
+    display: flex;
+}
+
+.red {
+    display: flex;
+}
+
+.blue {
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+.yel {
+    background-color: blue;
+    color: #fff;
+    padding: 10px 15px;
+    margin-top: 15px;
+}
+
+.bod {
+    margin-top: 20px;
+    width: 510px;
+    font-size: 30px;
+}
+
+.fe {
+    width: 500px;
+    margin-top: 30px;
+}
+
+hr {
+    margin: 60px;
+}
+
+footer {
+    margin-top: 80px;
+}
+
+.lost {
+    margin-left: 300px;
+}
+
+.fu {
+    display: flex;
+    width: 400px;
+    margin-top: 35px;
+}
+
+.ful {
+    display: flex;
+    width: 400px;
+    margin-top: 18px;
+    margin-left: 20px;
+}
+
+.full {
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+    width: 300px;
+}
+
+.ful h3 {
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    
+}
+
+.ful p {
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.fu img {
+    width: 150px;
+}
+
+.coll {
+    background-color: rgb(45, 160, 160);
+}
+
+.col {
+    background-color: blueviolet;
+}
+
+.col1 {
+    background-color: tomato;
+}
+
+.col2 {
+    background-color: thistle;
+}
+
+.col3 {
+    background-color: steelblue;
+}
+
+.col4 {
+    background-color: rgb(0, 103, 103);
+}
+
+.col5 {
+    background-color: rosybrown;
+}
